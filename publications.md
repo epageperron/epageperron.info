@@ -27,7 +27,7 @@ description: "List of papers and talks with links when available"
 - 2016		“Réflexion sur la visualisation des données appliquée aux corpus en cunéiforme” Caf'E.PHE 11th edition, École Pratique des Hautes Études, Paris (Skype contribution), February 9  
 
 ### Panel Organized
-2017	“Text as Data: Digital Humanities for Text Analysis” American Oriental Society, Los Angeles, March 17-20 https://epageperron.github.io/text_as_data/ \[Co-organized with Timothy Bellefleur\]  
+- 2017	“Text as Data: Digital Humanities for Text Analysis” American Oriental Society, Los Angeles, March 17-20 https://epageperron.github.io/text_as_data/ \[Co-organized with Timothy Bellefleur\]  
 
 ### Conference Papers
 - 2017	“Teaching Machines to Understand Cuneiform Languages” Canadian Society for Mesopotamian Studies Annual Symposium 2017, Toronto, September 30th \[Co-authored with Lucas Reckling\]  
