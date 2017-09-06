@@ -10,7 +10,7 @@ description: "List of papers and talks with links when available"
 - 2017 	Pagé-Perron, E., Maria Sukhareva, Ilya Khait and Christian Chiarcos “Machine Translation and Automated Analysis of the Sumerian Language” *LaTeCH-CLfL workshop, Association for Computational Linguistics (ACL) Anthology*  
 
 ### Under Review
-- 2017 	“Expanding Digital Assyriology with Open Access and Machine Learning” Digital Humanities Quarterly
+- 2017 	“Expanding Digital Assyriology with Open Access and Machine Learning” *Digital Humanities Quarterly*
 - 2018 	“La reconstruction du panthéon mésopotamien au 3e millénaire avant notre ère : le cas de la ‘déesse mère’” *Religiologiques*  
 
 ### Other publications (not peer-reviewed)
