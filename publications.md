@@ -7,7 +7,7 @@ description: "List of papers and talks with links when available"
 ## Publications
 ### Peer-reviewed articles, chapters and proceedings
 - 2017 	“Taming Large Administrative Cuneiform Corpora with Network Analysis” in Vanessa Juloux, Amy Gansell and Alessandro di Ludovico eds. *CyberResearch on the Ancient Near East and Eastern Mediterranean. Case Studies on texts, objects, and archaeological data. Brill* (in press)  
-- 2017 	Pagé-Perron, E., Maria Sukhareva, Ilya Khait and Christian Chiarcos “Machine Translation and Automated Analysis of the Sumerian Language” *LaTeCH-CLfL workshop, Association for Computational Linguistics (ACL) Anthology*  
+- 2017  “Machine Translation and Automated Analysis of the Sumerian Language” *LaTeCH-CLfL workshop, Association for Computational Linguistics (ACL) Anthology*  \[Co-authored with Maria Sukhareva, Ilya Khait and Christian Chiarcos\]
 
 ### Under Review
 - 2017 	“Expanding Digital Assyriology with Open Access and Machine Learning” *Digital Humanities Quarterly*
