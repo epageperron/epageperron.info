@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications & Talks
-description: This page describes monochrome.
+description: "List of papers and talks with links when available"
 ---
 
 ## Publications
@@ -12,6 +12,7 @@ description: This page describes monochrome.
 ### Under Review
 - 2017 	“Expanding Digital Assyriology with Open Access and Machine Learning” Digital Humanities Quarterly
 - 2018 	“La reconstruction du panthéon mésopotamien au 3e millénaire avant notre ère : le cas de la ‘déesse mère’” *Religiologiques*  
+
 ### Other publications (not peer-reviewed)
 - 2017	Baker, Heather D. and E. Pagé-Perron “MTAAC: Developing New Computer Applications for Cuneiform Studies” *Journal of the Canadian Society for Mesopotamian Studies*  
 
