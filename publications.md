@@ -30,6 +30,7 @@ description: "List of papers and talks with links when available"
 - 2017	“Text as Data: Digital Humanities for Text Analysis” American Oriental Society, Los Angeles, March 17-20 https://epageperron.github.io/text_as_data/ \[Co-organized with Timothy Bellefleur\]  
 
 ### Conference Papers
+- 2017 "First author, Getting LOADed: Practical Considerations, Tools, and Workflows for producing Linked Open Assyriological Data" merican Schools of Oriental Research annual meeting, Boston, November 15-18  \[Co-authored with Terhi Nurmikko-Fuller\]  
 - 2017	“Teaching Machines to Understand Cuneiform Languages” Canadian Society for Mesopotamian Studies Annual Symposium 2017, Toronto, September 30th \[Co-authored with Lucas Reckling\]  
 - 2017	“Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project” Digital Humanities Network Event 2017, Toronto, August 29th \[Co-authored with Lucas Reckling\]  
 - 2017 	“Machine Translation and Automated Analysis of the Sumerian Language” LaTeCH-CLfL workshop, Vancouver, August 4 \[Co-authored with Maria Sukhareva, Ilya Khait and Christian Chiarcos\]  
