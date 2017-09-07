@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Émilie Pagé-Perron | Publications & Talks
+title: Publications & Talks
 description: "List of papers and talks with links when available"
 ---
 
